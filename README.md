@@ -1,2 +1,9 @@
-# KIT715-Cybersecurity-and-Ethical-Hacking
-Conducted vulnerability assessments and penetration testing using ethical hacking techniques. Applied real-world attack simulations and defense measures.
+KIT715 Cybersecurity and Ethical Hacking
+Overview
+Vulnerability assessments and defensive security techniques from an ethical hacking perspective.
+Technologies Used
+Pen-testing concepts, security tooling
+My Contributions
+	•	Conducted controlled assessments, documented findings.
+Key Outcomes
+	•	Identified security gaps and recommended mitigations.
